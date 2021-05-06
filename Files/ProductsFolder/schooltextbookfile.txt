@@ -1,0 +1,5 @@
+Zangak, Abovyan_St 12/13, Publishing_Company;MathAnalizi_Tarrer; 45.2; Armen_Martirosyan; Armenian; 450; Mathematics;11;X
+Zangak, Abovyan_St 12/13, Publishing_Company;Destination; 100.2; Brook_Williams; English; 200; English; 10 ;V ;
+Antares, Abovyan_St 8/13, Publishing_Company;Anatomy; 150.2; Mabel_Pines; English; 250; Biology; 11 ; X ;
+Antares, Qajaznuni_St 78/17, Publishing_Company;EnglishBook; 105.2; Bonk; Russian; 400; English; 9 ; V ;
+Zangak, Amiryan_St 5/13, Publishing_Company;Legends; 800.2; Mariam_Galstyan; Armenian; 50; History; 11 ; X ;
